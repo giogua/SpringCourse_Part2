@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringCourse-Part2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: g.guardabassi
+Implementation-Vendor-Id: de.reply.rvl
+Build-Jdk: 1.8.0_161
+Implementation-URL: Udemy Spring course
+Created-By: Maven Integration for Eclipse
+
